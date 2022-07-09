@@ -1,10 +1,12 @@
 ## Biography
-Data Scientist、仮想通貨Botter
+Data Scientist
 
 ### Skills
 Python, PHP, Ruby, JavaScript, C
 
 ### Interests
-Data Engineering, Machine Learning
+Data Engineering
+
+Machine Learning
 
 
