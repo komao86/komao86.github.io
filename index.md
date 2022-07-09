@@ -4,6 +4,16 @@ You can use the [editor on GitHub](https://github.com/komao86/komao86.github.io/
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
+## Biography
+Data Scientist、仮想通貨Botter
+
+### Skills
+Python, PHP, Ruby, JavaScript, C
+
+### Interests
+Data Engineering
+Machine Learning
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
