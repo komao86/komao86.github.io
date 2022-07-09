@@ -11,8 +11,7 @@ Data Scientist、仮想通貨Botter
 Python, PHP, Ruby, JavaScript, C
 
 ### Interests
-Data Engineering
-Machine Learning
+Data Engineering, Machine Learning
 
 ### Markdown
 
